@@ -1,1 +1,1 @@
-# W-BD-stuff-reward
+# weku-newbies-upvote-bot
